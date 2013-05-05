@@ -42,4 +42,4 @@ Contributing
 ------------
 
 If you see a Component that requires an update, or is missing support for a
-certain package manager, feel free to open a pull request !
+certain package manager, feel free to open an issue or better, a pull request !
