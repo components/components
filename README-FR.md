@@ -39,8 +39,9 @@ Par exemple ceux-ci:
 * [Package Manager Comparision](https://github.com/wilmoore/frontend-packagers)
 
 
-Contributing
+Contribution
 ------------
 
-If you see a Component that requires an update, or is missing support for a
-certain package manager, feel free to open a pull request !
+Si vous contatez qu'un dépôt a besoin d'une mise à jour ou ne fonctionne pas
+avec votre gestionnaire de dépendances, n'hésitez pas à ouvrir une issue ou
+à proposer une pull-request !
