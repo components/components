@@ -37,6 +37,11 @@ to support as many package managers as possible. Some examples include:
 * [Composer](http://getcomposer.org), see [Components Installer for Composer](https://github.com/RobLoach/component-installer)
 * [Package Manager Comparision](https://github.com/wilmoore/frontend-packagers)
 
+Maintainers
+-----------
+If you are using grunt as part the build process for your library, you can use this helper to release a new version of your library in the main repo, and the compiled version of your code to your component repository:
+
+https://github.com/walmartlabs/grunt-release-component
 
 Contributing
 ------------
