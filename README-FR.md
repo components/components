@@ -42,6 +42,6 @@ Par exemple ceux-ci:
 Contribution
 ------------
 
-Si vous contatez qu'un dépôt a besoin d'une mise à jour ou ne fonctionne pas
+Si vous constatez qu'un dépôt a besoin d'une mise à jour ou ne fonctionne pas
 avec votre gestionnaire de dépendances, n'hésitez pas à ouvrir une issue ou
 à proposer une pull-request !
