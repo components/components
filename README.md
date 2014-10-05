@@ -43,9 +43,10 @@ The Bower repositories try to have a standardized name of `components-*`.
 
 Maintainers
 -----------
-If you are using grunt as part of the build process for your library, you can use this helper to release a new version of your library in the main repo, and the compiled version of your code to your component repository:
+Helper tools can automate the process of releasing a new version of your library to the main repo and the complied version to your components repo.
 
-https://github.com/walmartlabs/grunt-release-component
+If you prefer a grunt task: https://github.com/walmartlabs/grunt-release-component
+If you prefer a CLI: https://github.com/webpro/release-it
 
 
 Contributing
@@ -53,3 +54,4 @@ Contributing
 
 If you see a Component that requires an update, or is missing support for a
 certain package manager, feel free to open an issue or better, a pull request!
+
