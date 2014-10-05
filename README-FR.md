@@ -1,7 +1,7 @@
 Components
 ==========
 
-Dépôts des [Components](http://github.com/components) les plus populaires compatibles la plupart des gestionnaires de dépendances.
+Dépôts des [Components](http://github.com/components) les plus populaires compatibles avec la plupart des gestionnaires de dépendances.
 
 Remarque: Components n'est **PAS** un gestionnaire de dépendances.
 
@@ -11,10 +11,10 @@ Qu'est-ce que c'est ?
 Il y a beaucoup de gestionnaires de dépendances... Plus qu'un par langage !
 Et pour chacun d'entre eux, vous avez besoin d'un dépôt.
 
-Components là pour tout centraliser: avoir un seul dépôt par projet, supporter tous
+Components est là pour tout centraliser: avoir un seul dépôt par projet, supporter tous
 les gestionnaires de dépendances possible et garder les dépôts à jour.
 
-**C'est simple**: tous nos dépôts sont ajouté dans la liste officielle de votre
+**C'est simple**: tous nos dépôts sont ajoutés dans la liste officielle de votre
 gestionnaire de dépendances (le nom peut changer suivant le gestionnaire) :
 vous n'avez pas besoin de faire quoi que ce soit, installez simplement notre
 composant comme n'importe quel autre.
